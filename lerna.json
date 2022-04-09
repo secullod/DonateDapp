@@ -1,0 +1,8 @@
+{
+  "packages": [
+    "crypto-contracts",
+    "frontend"
+  ],
+  "version": "0.0.0",
+  "npmClient": "yarn"
+}
